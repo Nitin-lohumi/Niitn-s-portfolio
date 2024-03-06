@@ -254,8 +254,8 @@ a{
     
 }
 img{
-    width:350px;
-    height:350px;
+    width:280px;
+    height:280px;
     transform-style:preserve-3d;
     transition: transform 1s linear;
     border-radius: 25% 10%;
